@@ -1,3 +1,11 @@
+<!--
+
+Titel:
+Weather-Checker
+
+Beskrivning:
+A full stack weather app where users can view weather data for any city and revisit saved favorites. System owners can monitor API health and track call counts (ASP.NET Core, React, XUnit, TDD, Responsivity).
+
 # Weather Checker
 
 ![User Interface](user-interface.png)
@@ -54,6 +62,6 @@ This organized approach, utilizing priorities and a Test-Driven Development meth
 - Enhanced the system with functionality to monitor API health and status.
 
 
-
+-->
 
 
